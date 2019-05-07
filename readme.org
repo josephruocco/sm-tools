@@ -1,0 +1,31 @@
+* sm-tools 
+
+** The Content 
+- scraped from other accounts using this baby here 
+- scraped from a royalty free stock photos on the internet :3 
+** Auto Captioning & Auto Crediting
+ - templating mechanism 
+   #+BEGIN_SRC 
+ {CAPTION}
+.
+.
+.
+Credit: {CREDIT}
+.
+.
+.
+{HASHTAG1 HASHTAG2 ... HASHTAG30}
+ #+END_SRC 
+
+*** How This Works: 
+- via  Python script that 
+1) randomly grabs one of these pictures 
+2) auto-generates a caption
+- Using an open source API, 
+3) scheduled posting via cron-job 
+to run around 8:00 AM, 2:00 PM, and 7:30 PM every day.
+
+** Following
+ see this baby here 
+ 
+** 

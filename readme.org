@@ -26,5 +26,5 @@ Credit: {CREDIT}
 to run around 8:00 AM, 2:00 PM, and 7:30 PM every day.
 
 ** Following
- see this baby [[[[here][https://github.com/timgrossmann/InstaPy]]][here]]
+ see this baby [[https://github.com/timgrossmann/InstaPy][here]]
 
